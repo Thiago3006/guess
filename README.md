@@ -1,9 +1,9 @@
 
-<h1> Guess (Adivinhar) </h1>
+<h1> Guess </h1>
 
-<p> Neste projeto eu tentei aplicar um conhecimento básico de <strong> Bootstrap, HTML, CSS e JAVASCRIPT </strong>, onde deixei o <strong> Button </strong> mais responsivo.</p>
-<p> No guess você tem que tentar advinhar o sabor de sorvete, quando interagir com o botão, será exibido um alerta informando se acertou ou não.</p>
-<p> Se errar  o sistema irá lembrá-lo do botão de ajuda onde será enviado a uma nova página com varias opções para escolher e tentar. </p>
+<p>In this project I tried to apply a basic knowledge of <strong> Bootstrap, HTML, CSS and JAVASCRIPT </strong>, where I made the <strong> Button </strong> more responsive.</p>
+<p> In the guess you have to try to guess the flavor of ice cream, when interacting with the button, an alert will be displayed informing if you got it right or not.</p>
+<p> If you make a mistake the system will remind you of the help button where you will be sent to a new page with several options to choose and try. </p>
 
-<footer> Por ser um projeto simples, eu tentei mostrar o que venho estudando, estou sempre na busca de conhecimento e aprimoramento. Dei o primeiro passo e não pretendo parar aqui.
-<p> Obrigado!</p></footer>
+<footer> Being a simple project, I tried to show what I've been studying, I'm always looking for knowledge and improvement. I took the first step and I don't intend to stop here.
+<p> Thank you!</p></footer> 
